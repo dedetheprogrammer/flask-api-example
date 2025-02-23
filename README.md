@@ -1,4 +1,4 @@
-# FLASK Backend API Test
+# FLASK Backend API Example
 A continuación se describe los pasos a seguir para la utilización de la API implementada, esta puede ser accedida desde el navegador, ya que se ha implementado una interfaz para poder probarse.
 
 La versión de Python utilizada es la `v3.12.6` y ha sido desarrollado en Windows.
@@ -7,7 +7,8 @@ Para la ejecución de la API, seguir los siguientes pasos:
 
 0. Se puede obtener el link del repositorio así:
 
-![image](https://github.com/user-attachments/assets/6fbb0f96-d5ff-44c5-817b-7ec19022a061)
+![image](https://github.com/user-attachments/assets/6b4b8fae-3eee-4923-b167-d35213824d39)
+
 
 1. Clonar el repositorio:
 
